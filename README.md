@@ -2,10 +2,12 @@
 
 
 <a href="https://github.com/DuRuofu">
-  <img align="center" src="https://du-ruofu-raadme-start-h5qc0qsv5-duruofus-projects.vercel.app/api?username=Duruofu&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="duruofu-readme-start.vercel.app
+/api?username=Duruofu&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/DuRuofu">
-  <img align="center" src="https://du-ruofu-raadme-start-h5qc0qsv5-duruofus-projects.vercel.app/api/top-langs/?username=Duruofu&langs_count=8&theme=dark&count_private=true&layout=compact&card_width=280" />
+  <img align="center" src="duruofu-readme-start.vercel.app
+/api/top-langs/?username=Duruofu&langs_count=8&theme=dark&count_private=true&layout=compact&card_width=280" />
 </a>
 
 ## 正在主力开发
