@@ -1,7 +1,12 @@
 # 这里是Duruofu
 
-![](https://raw.githubusercontent.com/Duruofu/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Duruofu/github-stats-transparent/output/generated/languages.svg)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duruofu&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duruofu&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
+</a>
 
 ## 正在主力开发
 [IOT-Hub-Node](https://github.com/HubConnectors/IoT-Hub-Node) -基于 Node.js 的物联网平台，旨在连接物联网设备和应用程序，提供数据持久化和可靠管理 。
