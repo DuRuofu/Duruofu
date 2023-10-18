@@ -1,10 +1,10 @@
 # 这里是Duruofu
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DuRuofu/Duruofu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duruofu&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/DuRuofu/Duruofu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duruofu&langs_count=8&theme=dark&count_private=true&layout=compact&card_width=280" />
 </a>
 
