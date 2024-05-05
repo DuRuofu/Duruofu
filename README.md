@@ -11,7 +11,7 @@
 
 ![logo.png](https://image-1308319148.cos.ap-chengdu.myqcloud.com/main/logo.png)
 
-[IOT-Hub-Node](https://github.com/HubConnectors/IoT-Hub-Node) -IoT-Hub-Node是一个基于 Node.js 的开源物联网设备接入管理平台，提供设备接入，设备管理，数据存储，指令下发，规则引擎等主流功能，旨在连接物联网设备和应用程序。
+[IOT-Hub-Node](https://github.com/HubConnectors/IoT-Hub-Node)是一个基于 Node.js 的开源物联网设备接入管理平台，提供设备接入，设备管理，数据存储，指令下发，规则引擎等主流功能，旨在连接物联网设备和应用程序。
 
 ## 联系我
 E-mail: duruofu.xin@outlook.com
