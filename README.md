@@ -1,6 +1,5 @@
 # 这里是Duruofu
 
-
 <a href="https://github.com/DuRuofu">
   <img align="center" src="https://duruofu-readme-start.vercel.app/api?username=Duruofu&count_private=true&show_icons=true&theme=dark" />
 </a>
@@ -9,10 +8,10 @@
 </a>
 
 ## 正在主力开发
-[IOT-Hub-Node](https://github.com/HubConnectors/IoT-Hub-Node) -基于 Node.js 的物联网平台，旨在连接物联网设备和应用程序，提供数据持久化和可靠管理 。
 
+![logo.png](https://image-1308319148.cos.ap-chengdu.myqcloud.com/main/logo.png)
 
-[IOT-Hub-Embedded-Support](https://github.com/HubConnectors/IOT-Hub-Embedded-Support) -IoT-Hub-Embedded提供硬件项目示范，与IoT-Hub-Node平台相互配合，构建功能强大、可靠的物联网应用程序。
+[IOT-Hub-Node](https://github.com/HubConnectors/IoT-Hub-Node) -IoT-Hub-Node是一个基于 Node.js 的开源物联网设备接入管理平台，提供设备接入，设备管理，数据存储，指令下发，规则引擎等主流功能，旨在连接物联网设备和应用程序。
 
 ## 联系我
 E-mail: duruofu.xin@outlook.com
