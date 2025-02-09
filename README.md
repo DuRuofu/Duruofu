@@ -18,4 +18,4 @@
 [IOT-Hub-Node](https://github.com/HubConnectors/IoT-Hub-Node) -- Is a Open Source iot device access management platform, providing device access, device management, data storage, command issue, rule engine and other mainstream functions, designed to connect iot devices and applications.
 
 ## Contact me
-E-mail: duruofu.xin@outlook.com
+E-mail: duruofu@qq.com
