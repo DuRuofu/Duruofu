@@ -13,7 +13,6 @@
 
 [ESP32-Guide](https://github.com/DuRuofu/ESP32-Guide) -- Is an open source tutorial,record and share my experience in learning ESP32 to help other beginners get started in ESP32 development.
 
-![logo.png](https://image-1308319148.cos.ap-chengdu.myqcloud.com/main/logo.png)
 
 ## Contact me
 E-mail: duruofu@qq.com
