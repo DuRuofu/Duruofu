@@ -4,7 +4,7 @@
   <img align="center" src="https://duruofu-readme-start.vercel.app/api?username=Duruofu&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/DuRuofu">
-  <img align="center" src="https://duruofu-readme-start.vercel.app/api/top-langs/?username=Duruofu&langs_count=8&theme=dark&count_private=true&layout=compact&hide=Assembly&card_width=280" />
+  <img align="center" src="https://duruofu-readme-start.vercel.app/api/top-langs/?username=Duruofu&langs_count=8&theme=dark&count_private=true&layout=compact&hide=Assembly,V&card_width=280" />
 </a>
 
 ## It's being developed
