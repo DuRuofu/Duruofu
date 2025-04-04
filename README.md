@@ -1,4 +1,4 @@
-# This is Duruofu
+# This is DuRuofu
 
 <a href="https://github.com/DuRuofu">
   <img align="center" src="https://duruofu-readme-start.vercel.app/api?username=Duruofu&count_private=true&show_icons=true&theme=dark" />
