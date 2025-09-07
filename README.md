@@ -1,7 +1,7 @@
 # This is DuRuofu
 
 <a href="https://github.com/DuRuofu">
-  <img align="center" src="https://duruofu-readme-start.vercel.app/api/top-langs/?username=Duruofu&langs_count=8&theme=dark&count_private=true&layout=compact&hide=Assembly,V,VHDL,SystemVerilog&card_width=300" />
+  <img align="center" src="https://duruofu-readme-start.vercel.app/api/top-langs/?username=Duruofu&langs_count=8&theme=dark&count_private=true&layout=compact&hide=Assembly,V,VHDL,SystemVerilog" />
 </a>
 
 ## It's being developed
